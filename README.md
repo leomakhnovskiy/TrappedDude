@@ -4,6 +4,7 @@
 
 - Linux OS (recommended for optimal experience)
 - Python 3.x (Ensure that Python is installed on your system)
+- Pillow (for image handling, can be installed using 'pip install Pillow')
 
 ## How to Play
 
