@@ -1,0 +1,4 @@
+WIDTH = 1280
+HEIGHT = 720
+COL1 = '#E6DACA'
+COL2 = 'black'
